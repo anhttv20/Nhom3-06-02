@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nhom3-06-02</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fA">Hello  fragment AAAAA</string>
+    <string name="fB">Hello  fragment BBBB</string>
+    <string name="fC">Hello  fragment CCCC</string>
+</resources>
